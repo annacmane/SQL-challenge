@@ -66,14 +66,15 @@ Please follow the instructions below to execute the code in this repository:
 3. In SQL-challenge, open file employees_schemas.sql and copy the code inside and paste into your query tool from step 2. Run this code
 
 4. You MUST import the files in SQL-challenge/data in the order that the tables were created:
-  1. titles
-  2. employees
-  3. departments
-  4. dept_emp
-  5. dept_managers
-  6. salaries
+    a. titles
+    b. employees
+    c. departments
+    d. dept_emp
+    e. dept_managers
+    f. salaries
+
 To do so, in postgreSQL, locate the folder "Tables" in database employeesSQL/Schemas/Tables and right clicking the table names in the order as shown above, clicking "Import/Export Data..." and attaching the corresponding file from SQL-challenge/data -->
 
-5. Open a new query tool.
+6. Open a new query tool.
 
-6. In SQL-challenge, open file employees_queries.sql and 
+7. In SQL-challenge, open file employees_queries.sql and 
